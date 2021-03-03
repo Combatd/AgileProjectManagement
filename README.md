@@ -17,3 +17,13 @@ Agile Software Development Process
 * Product Owner
   * Works with the team to deliver product
   * Shared responsibility with product owner and team
+  * Should have authority to make real-time decisions
+  * Sits with the team and answers all questions
+* Product Manager
+  * Product Strategy
+  * Once vision is created, they bring Product Owner in
+  * A product backlog is a list of features that could be added to product
+  * A customer representative is needed in the Agile team
+
+* If there is no Product Owner, the software developers may just start finishing the easiest features first
+ * Not always maximum value
