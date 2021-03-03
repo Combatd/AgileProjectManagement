@@ -5,6 +5,9 @@ Agile Software Development Process
 * Emphasize cross-functional teams over knowledge silos
 * Scrum terms often get used in Agile
 
+* Agile emphasizes individuals over processes and tools
+* More face to face interaction
+
 ## Roles in a Team
 * It is difficult to think of roles without understanding Agile Mindset
 * Agile roles are often different than traditional roles
@@ -14,6 +17,14 @@ Agile Software Development Process
   * Coaching
   * Encouraging responsibility
   * Facilitate self-management
+  * Administrative worker
+  * Trainer or Coach
+  * "Bulldoze" obstacles
+  * "Shield" from outside interference
+  * Conflict Negotiation
+  * May start out mostly training others, then over time they spend more time on adminstration
+  * They can tell Management and others how their actions affect the team and interfere with product delivery
+  * Spend most of your time serving others
 * Product Owner
   * Works with the team to deliver product
   * Shared responsibility with product owner and team
@@ -26,4 +37,8 @@ Agile Software Development Process
   * A customer representative is needed in the Agile team
 
 * If there is no Product Owner, the software developers may just start finishing the easiest features first
- * Not always maximum value
+  * Not always maximum value
+
+* Scrum Master Certifications are far and wide, more than others - very interested role
+* Pulling someone off an Agile team bottlenecks their work
+* Communication and Cross-Functional Teams is related
