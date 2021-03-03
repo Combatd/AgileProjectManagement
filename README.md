@@ -54,3 +54,6 @@ Agile Software Development Process
 * Eliminate handoffs - An agile team mixes up the lines of responsibility
 * Working software as status updates, each sprint is to an iteration of a working ready to ship product
 * A lot of Agile transformations fail before really starting due to an organizational culture that dislikes changes
+* Control Culture: Way of work based ona clear hiearchy of supervisors that values predictability
+* It could take 5 to 10 years to complete an Agile transformation
+  * One company made a separate building just for people to test out Agile teams owning their product
