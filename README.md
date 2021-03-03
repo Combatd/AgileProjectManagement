@@ -42,3 +42,5 @@ Agile Software Development Process
 * Scrum Master Certifications are far and wide, more than others - very interested role
 * Pulling someone off an Agile team bottlenecks their work
 * Communication and Cross-Functional Teams is related
+* Groupthink: Everyone just goes along with the experts of a group without asking questions
+* In Agile, if you can't explain to the others, it may be a bad idea
