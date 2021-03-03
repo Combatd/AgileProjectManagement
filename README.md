@@ -53,3 +53,4 @@ Agile Software Development Process
 * Business Analysts should not handing off requirements to the team
 * Eliminate handoffs - An agile team mixes up the lines of responsibility
 * Working software as status updates, each sprint is to an iteration of a working ready to ship product
+* A lot of Agile transformations fail before really starting due to an organizational culture that dislikes changes
