@@ -11,6 +11,12 @@ Agile Software Development Process
 
 * Agile emphasizes individuals over processes and tools
 * More face to face interaction
+* In Agile, make sure you give good estimates of effort
+  * Give a good rough timeline of building a feature set
+  * There is leeway to find out certain features are harder and debrief/converse about it
+* You may start a sprint where you define user stories, each sprint is about what we are planning to tackle
+  * There can be scope creep from changing customer demands; backlog could be important here
+  * Up to the people managing the Kanban board to shuffle things to the backlog and maybe move priorities if there is time
 
 ## Roles in a Team
 * It is difficult to think of roles without understanding Agile Mindset
