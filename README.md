@@ -2,6 +2,10 @@
 Agile Software Development Process
 
 * Task Board is a familiar practice in Waterfall, Scrum, XP
+* Extreme Programming: Set of practices to be able to rapidly respond to changes
+  * Test-Driven Development
+  * Pair Programming
+  * Open to changing requirements
 * Emphasize cross-functional teams over knowledge silos
 * Scrum terms often get used in Agile
 
