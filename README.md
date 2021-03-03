@@ -57,3 +57,4 @@ Agile Software Development Process
 * Control Culture: Way of work based ona clear hiearchy of supervisors that values predictability
 * It could take 5 to 10 years to complete an Agile transformation
   * One company made a separate building just for people to test out Agile teams owning their product
+* What feels good to you as an individual is not always going to be the best for the team
