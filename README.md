@@ -44,3 +44,12 @@ Agile Software Development Process
 * Communication and Cross-Functional Teams is related
 * Groupthink: Everyone just goes along with the experts of a group without asking questions
 * In Agile, if you can't explain to the others, it may be a bad idea
+
+## Challenging Changes
+* If you have people doing the same things just with Agile role names, it isn't working
+* Like Yoga...if you are doing it right, it hurts just a bit (a little bit anxious)
+* Step away from long-term detailed plans and inspect/adapt
+* Comfort with uncertainty is a competitive advantage
+* Business Analysts should not handing off requirements to the team
+* Eliminate handoffs - An agile team mixes up the lines of responsibility
+* Working software as status updates, each sprint is to an iteration of a working ready to ship product
